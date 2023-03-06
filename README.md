@@ -72,7 +72,7 @@ $ yarn start
 
 It is *slightly* faster to boot up Synthea via the Electron binary (rather than going through yarn), so if you're developing seriously it is recommended to install Electron globally.
 ```
-$ npm install -g electron
+$ yarn global add electron
 ```
 
 And then, open Synthea via Electron directly (from the Synthea repository folder). The optional
