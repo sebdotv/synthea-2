@@ -1,6 +1,10 @@
 # Change Log
 All notable changes (features, fixes, tweaks) to Synthea will be documented here.
 
+## 0.0.12 - March 6, 2023
+### Fixed
+- Electron upgraded to latest version 23
+
 ## 0.0.11 - March 18, 2022
 ### Fixed
 - AngularJS upgraded to latest version 1.8 
